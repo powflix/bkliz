@@ -21,7 +21,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.2",
+    version="1.0.3",
     author="Abhishek Singh",
     author_email="a.s.2013.hts@gmail.com",
     description="A Fast, Secure and Powerful Encryption library based on UTF - 8 Character Encoding.",
