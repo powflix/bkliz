@@ -44,11 +44,11 @@ Dec/Mess: Meet me at 9 AM
 
 ## License
 
-Bkliz is licensed under [GNU General Public License v3 (GPLv3)](https://github.com/singh2505/bkliz/LICENSE)
+Bkliz is licensed under [GNU General Public License v3 (GPLv3)](https://github.com/singh2505/bkliz/blob/master/LICENSE)
 
 ## Contributing
 
-Your help in making BKLIZ better will be highly appreciated. If you're interested, please read [CONTRIBUTING](https://github.com/singh2505/bkliz/CONTRIBUTING)
+Your help in making BKLIZ better will be highly appreciated. If you're interested, please read [CONTRIBUTING](https://github.com/singh2505/bkliz/blob/master/CONTRIBUTING)
 
 ## Copyright
 
