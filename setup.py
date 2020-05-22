@@ -21,10 +21,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.3",
+    version="1.0.4",
     author="Abhishek Singh",
     author_email="a.s.2013.hts@gmail.com",
-    description="A Fast, Secure and Powerful Encryption library based on UTF - 8 Character Encoding.",
+    description="A Secure and Powerful Open Source Python Library for Encryption/Decryption.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/singh2505/bkliz",
