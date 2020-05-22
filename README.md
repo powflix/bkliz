@@ -1,12 +1,12 @@
 # Bkliz ![PyPi](https://img.shields.io/pypi/v/bkliz)  ![PyPI - License](https://img.shields.io/github/license/singh2505/bkliz) ![PyPI - Format](https://img.shields.io/pypi/format/bkliz) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)
 
-Bkliz (Black Lizard) is an Open Source Python library for Encryption/Decryption.
-It is based on `UTF - 8` Character Encoding which provide unique Encryption for same input over iteration. It is:
+Bkliz (Black Lizard) is an Open Source Python Library for Encryption/Decryption.
+It is based on `UTF - 8` Character Encoding which provide unique Encryption for same input over mutiple iterations. It is:
 
 * **Fast:** It is build on Python 3 and work efficiently for long range inputs.
 * **Simple:** Its design makes it convenient and light weight.
-* **Secure:** It provide new encryption for same input over again and again.
-* **Powerful:** It provide highly unbreakable encryption for every input.
+* **Secure:** It provide new encryption for same input again and again.
+* **Powerful:** It provide highly unbreakable encryption for each new input.
 * **Customizable:** You can add salt accordingly to increase its security .
 * **Open-Source:** You can modify its source code for your personal use.
 
@@ -19,6 +19,7 @@ It is currently available for `Python>=3.6` and can be install using `pip`:
 It provides two standard methods `encode` & `decode` which can be used by importing bkliz library in your `.py` file:
 ```python
 import bkliz
+
 
 message = 'Meet me at 9 AM'
 
