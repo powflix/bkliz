@@ -1,4 +1,4 @@
-# Bkliz ![PyPi](https://img.shields.io/pypi/v/ng2django)  ![PyPI - License](https://img.shields.io/github/license/singh2505/bkliz) ![PyPI - Format](https://img.shields.io/pypi/format/Django) ![PyPI - Status](https://img.shields.io/pypi/status/Django) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)
+# Bkliz ![PyPi](https://img.shields.io/pypi/v/bkliz)  ![PyPI - License](https://img.shields.io/github/license/singh2505/bkliz) ![PyPI - Format](https://img.shields.io/pypi/format/bkliz) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)
 
 Bkliz (Black Lizard) is an Open Source Python library for Encryption/Decryption.
 It is based on `UTF - 8` Character Encoding which provide unique Encryption for same input over iteration. It is:
@@ -44,12 +44,12 @@ Dec/Mess: Meet me at 9 AM
 
 ## License
 
-Bkliz is licensed under [GNU General Public License v3 (GPLv3)](./LICENSE)
+Bkliz is licensed under [GNU General Public License v3 (GPLv3)](https://github.com/singh2505/bkliz/LICENSE)
 
 ## Contributing
 
-Your help in making BKLIZ better will be highly appreciated. If you're interested, please read [CONTRIBUTING](./CONTRIBUTING)
+Your help in making BKLIZ better will be highly appreciated. If you're interested, please read [CONTRIBUTING](https://github.com/singh2505/bkliz/CONTRIBUTING)
 
 ## Copyright
 
-Copyright (C) 2020 Abhishek Singh | [Github](https://github.com/singh2505) | [Twitter](https://twitter.com/real_singhaniya) | 
+Copyright (C) 2020 Abhishek Singh | [Github](https://github.com/singh2505) | [Twitter](https://twitter.com/real_singhaniya) |
