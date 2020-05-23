@@ -21,7 +21,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.5",
+    version="1.0.6",
     author="Abhishek Singh",
     author_email="a.s.2013.hts@gmail.com",
     description="A Secure and Powerful Open Source Python Library for Encryption/Decryption.",
@@ -43,6 +43,6 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
-    keywords='python-library pypi-package encryption-decryption utf-8 gplv3',
+    python_requires=">=3.6",
+    keywords="python-library pypi-package encryption-decryption utf-8 gplv3",
 )
