@@ -12,7 +12,7 @@ It is based on `UTF - 8` Character Encoding which provide unique Encryption for 
 
 ## Installation
 It is currently available for `Python>=3.6` and can be install using `pip`:
-> pip install bkliz
+> pip install -U bkliz
 
 ## Example
 
@@ -30,8 +30,9 @@ for i in range(0,3):
     decode_mess = bkliz.decode(encode_mess)
     print('Dec/Mess: ' + decode_mess)
 
+
 ```
-Output for above example:
+Output:
 ```
 Enc/Mess: ¾ĀđČšiŁìùėÐ¨Wª»§uă=Xïèí¿v
 Dec/Mess: Meet me at 9 AM
