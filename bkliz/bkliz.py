@@ -1,16 +1,16 @@
 # Encoding: UTF-8
 # Line Endings: LF(Unix)
-# Programming Language: Python v3.7
+# Programming Language: Python 3
 # Standard: PEP 8
 
 '''
 Author: Abhishek Singh
 email: a.s.2013.hts@gmail.com
-Copyright: (C) 2020 Abhishek Singh
+Source: https://github.com/singh2505/bkliz | see README for more details
 License: GNU General Public License v3 (GPLv3) | see LICENSE for more details
-Source Code: https://github.com/singh2505/bkliz | see README for more details
-
 Contribution: Wanna contribute to bkliz library? | see CONTRIBUTING for more details
+
+Copyright (C) 2020 Abhishek Singh
 '''
 
 import random
