@@ -1,7 +1,7 @@
 # Encoding: UTF-8
 # Line Endings: LF(Unix)
 # Programming Language: Python 3
-# Standard: PEP 8
+# Syntax Standard: PEP 8
 
 '''
 Author: Abhishek Singh
