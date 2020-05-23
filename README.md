@@ -1,4 +1,4 @@
-# Bkliz ![PyPi](https://img.shields.io/pypi/v/bkliz) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bkliz) ![PyPI - License](https://img.shields.io/github/license/singh2505/bkliz) ![PyPI - Format](https://img.shields.io/pypi/format/bkliz) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)
+# Bkliz ![PyPi](https://img.shields.io/pypi/v/bkliz) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bkliz) ![PyPI - License](https://img.shields.io/github/license/singh2505/bkliz) ![PyPI - Format](https://img.shields.io/pypi/format/bkliz) ![PyPI - Status](https://img.shields.io/pypi/status/bkliz) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)
 
 Bkliz (Black Lizard) is an Open Source Python Library for Encryption/Decryption.
 It is based on `UTF - 8` Character Encoding which provide unique Encryption for same input over mutiple iterations. It is:
@@ -29,7 +29,6 @@ for i in range(0,3):
 
     decode_mess = bkliz.decode(encode_mess)
     print('Dec/Mess: ' + decode_mess)
-
 
 ```
 Output:
