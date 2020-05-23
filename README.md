@@ -1,4 +1,4 @@
-# Bkliz ![PyPi](https://img.shields.io/pypi/v/bkliz) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bkliz) ![PyPI - License](https://img.shields.io/github/license/singh2505/bkliz) ![PyPI - Format](https://img.shields.io/pypi/format/bkliz) ![PyPI - Status](https://img.shields.io/pypi/status/bkliz) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)
+# Bkliz [![PyPi](https://img.shields.io/pypi/v/bkliz)](https://pypi.org/project/bkliz) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bkliz)](https://pypi.org/project/bkliz) [![GitHub](https://img.shields.io/github/license/singh2505/bkliz)](https://github.com/singh2505/bkliz/blob/master/LICENSE) [![PyPI - Format](https://img.shields.io/pypi/format/bkliz)](https://pypi.org/project/bkliz) [![PyPI - Status](https://img.shields.io/pypi/status/bkliz)](https://pypi.org/project/bkliz) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/singh2505/bkliz?color=yellow)](https://github.com/singh2505/bkliz/)
 
 Bkliz (Black Lizard) is an Open Source Python Library for Encryption/Decryption.
 It is based on `UTF - 8` Character Encoding which provide unique Encryption for same input over mutiple iterations. It is:
@@ -7,7 +7,7 @@ It is based on `UTF - 8` Character Encoding which provide unique Encryption for 
 * **Simple:** Its design makes it convenient and light weight.
 * **Secure:** It provide new encryption for same input again and again.
 * **Powerful:** It provide highly unbreakable encryption for each new input.
-* **Customizable:** You can add salt accordingly to increase its security .
+* **Customizable:** You can add salt accordingly to increase its security.
 * **Open-Source:** You can modify its source code for your personal use.
 
 ## Installation
