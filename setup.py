@@ -1,7 +1,7 @@
 # Encoding: UTF-8
 # Line Endings: LF(Unix)
 # Programming Language: Python 3
-# Standard: PEP 8
+# Syntax Standard: PEP 8
 
 '''
 Author: Abhishek Singh
@@ -44,5 +44,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    keyword='python-library pypi-package encryption-decryption utf-8 gplv3',
+    keywords='python-library pypi-package encryption-decryption utf-8 gplv3',
 )
