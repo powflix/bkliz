@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Encoding: UTF-8
 # Line Endings: LF(Unix)
 # Programming Language: Python 3
