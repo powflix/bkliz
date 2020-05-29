@@ -45,15 +45,15 @@ Dec/Mess: Meet me at 9 AM
 
 ## Code of Conduct
 
-Powflix has adopted "Contributor Covenant Code of Conduct V2.0". Participants are expected to follow up the guildlines described in [CODE_OF_CONDUCT]((https://github.com/powflix/bkliz/blob/master/CODE_OF_CONDUCT))
+Powflix has adopted "Contributor Covenant Code of Conduct V2.0", participants are expected to follow the guildlines described in [CODE_OF_CONDUCT](https://github.com/powflix/bkliz/blob/master/CODE_OF_CONDUCT)
 
 ## Contributing
 
-Your help in making BKLIZ better will be highly appreciated. If you're interested to contribute, please refer [CONTRIBUTING](https://github.com/powflix/bkliz/blob/master/CONTRIBUTING)
+Your help in making BKLIZ better will be highly appreciated. If you're interested, please refer [CONTRIBUTING](https://github.com/powflix/bkliz/blob/master/CONTRIBUTING)
 
 ## License
 
-Bkliz is licensed under "GNU General Public License v3 (GPLv3)". Read details in [LICENSE](https://github.com/powflix/bkliz/blob/master/LICENSE)
+Bkliz is licensed under "GNU General Public License v3 (GPLv3)", read details in [LICENSE](https://github.com/powflix/bkliz/blob/master/LICENSE)
 
 ## Copyright
 
