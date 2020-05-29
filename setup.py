@@ -8,7 +8,7 @@
 '''
 Source: https://github.com/powflix/bkliz | see README for more details
 License: GNU General Public License v3 (GPLv3) | see LICENSE for more details
-Contribution: Wanna contribute to bkliz library? | see CONTRIBUTING for more details
+Contribution: Wanna contribute to bkliz? | see CONTRIBUTING for more details
 
 Copyright (C) 2020 Powflix Inc., and its affiliates
 '''

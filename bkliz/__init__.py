@@ -6,7 +6,7 @@
 '''
 Source: https://github.com/powflix/bkliz | see README for more details
 License: GNU General Public License v3 (GPLv3) | see LICENSE for more details
-Contribution: Wanna contribute to bkliz library? | see CONTRIBUTING for more details
+Contribution: Wanna contribute to bkliz? | see CONTRIBUTING for more details
 
 Copyright (C) 2020 Powflix Inc., and its affiliates
 '''
@@ -26,10 +26,10 @@ try:
     __summary__ = metadata['summary']
     __author__ = metadata['author']
     __email__ = metadata['author-email']
-    __source__ = 'https://github.com/singh2505/bkliz | see README for more details'
+    __source__ = 'https://github.com/powflix/bkliz | see README for more details'
     __license__ = 'GNU General Public License v3 (GPLv3) | see LICENSE for more details'
-    __contribution__ = 'Wanna contribute to bkliz library? | see CONTRIBUTING for more details'
-    __copyright__ = 'Copyright (C) 2020 Abhishek Singh'
+    __contribution__ = 'Wanna contribute to bkliz? | see CONTRIBUTING for more details'
+    __copyright__ = 'Copyright (C) 2020 Powflix Inc., and its affiliates'
 
 except:
     import sys
