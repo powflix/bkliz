@@ -1,4 +1,4 @@
-# Bkliz [![PyPi](https://img.shields.io/pypi/v/bkliz)](https://pypi.org/project/bkliz) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bkliz)](https://pypi.org/project/bkliz) [![GitHub](https://img.shields.io/github/license/singh2505/bkliz)](https://github.com/singh2505/bkliz/blob/master/LICENSE) [![PyPI - Format](https://img.shields.io/pypi/format/bkliz)](https://pypi.org/project/bkliz) [![PyPI - Status](https://img.shields.io/pypi/status/bkliz)](https://pypi.org/project/bkliz)
+# Bkliz [![PyPi](https://img.shields.io/pypi/v/bkliz)](https://pypi.org/project/bkliz) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bkliz)](https://pypi.org/project/bkliz) [![GitHub](https://img.shields.io/github/license/powflix/bkliz)](https://github.com/powflix/bkliz/blob/master/LICENSE) [![PyPI - Format](https://img.shields.io/pypi/format/bkliz)](https://pypi.org/project/bkliz) [![PyPI - Status](https://img.shields.io/pypi/status/bkliz)](https://pypi.org/project/bkliz)
 
 Bkliz (Black Lizard) is an Open Source Python Library for Encryption/Decryption.
 It is based on `UTF - 8` Character Encoding which provide unique Encryption for same input over mutiple iterations. It is:
@@ -43,14 +43,18 @@ Enc/Mess: ÁÓŚÔœėòhĵØzgŉ8}õÃõÁáÐÇP5ċ
 Dec/Mess: Meet me at 9 AM
 ```
 
-## License
+## Code of Conduct
 
-Bkliz is licensed under [GNU General Public License v3 (GPLv3)](https://github.com/singh2505/bkliz/blob/master/LICENSE)
+Powflix has adopted "Contributor Covenant Code of Conduct V2.0". Participants are expected to follow up the guildlines described in [CODE_OF_CONDUCT]((https://github.com/powflix/bkliz/blob/master/CODE_OF_CONDUCT))
 
 ## Contributing
 
-Your help in making BKLIZ better will be highly appreciated. If you're interested, please read [CONTRIBUTING](https://github.com/singh2505/bkliz/blob/master/CONTRIBUTING)
+Your help in making BKLIZ better will be highly appreciated. If you're interested to contribute, please refer [CONTRIBUTING](https://github.com/powflix/bkliz/blob/master/CONTRIBUTING)
+
+## License
+
+Bkliz is licensed under "GNU General Public License v3 (GPLv3)". Read details in [LICENSE](https://github.com/powflix/bkliz/blob/master/LICENSE)
 
 ## Copyright
 
-Copyright (C) 2020 Abhishek Singh | [Github](https://github.com/singh2505) | [Twitter](https://twitter.com/real_singhaniya) |
+Copyright (C) 2020 Powflix Inc., and its affiliates | [GitHub](https://github.com/powflix) | [Twitter](https://twitter.com/powflix) |
