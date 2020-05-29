@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Encoding: UTF-8
 # Line Endings: LF(Unix)
@@ -6,13 +6,11 @@
 # Syntax Standard: PEP 8
 
 '''
-Author: Abhishek Singh
-email: a.s.2013.hts@gmail.com
-Source: https://github.com/singh2505/bkliz | see README for more details
+Source: https://github.com/powflix/bkliz | see README for more details
 License: GNU General Public License v3 (GPLv3) | see LICENSE for more details
 Contribution: Wanna contribute to bkliz library? | see CONTRIBUTING for more details
 
-Copyright (C) 2020 Abhishek Singh
+Copyright (C) 2020 Powflix Inc., and its affiliates
 '''
 
 import setuptools
@@ -23,13 +21,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.6",
-    author="Abhishek Singh",
-    author_email="a.s.2013.hts@gmail.com",
+    version="1.0.7",
+    author="Powflix Inc.",
+    author_email="Powflix@outlook.com",
     description="A Secure and Powerful Open Source Python Library for Encryption/Decryption.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/singh2505/bkliz",
+    url="https://github.com/powflix/bkliz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
