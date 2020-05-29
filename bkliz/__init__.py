@@ -4,13 +4,11 @@
 # Syntax Standard: PEP 8
 
 '''
-Author: Abhishek Singh
-email: a.s.2013.hts@gmail.com
-Source: https://github.com/singh2505/bkliz | see README for more details
+Source: https://github.com/powflix/bkliz | see README for more details
 License: GNU General Public License v3 (GPLv3) | see LICENSE for more details
 Contribution: Wanna contribute to bkliz library? | see CONTRIBUTING for more details
 
-Copyright (C) 2020 Abhishek Singh
+Copyright (C) 2020 Powflix Inc., and its affiliates
 '''
 
 from .bkliz import encode, decode
