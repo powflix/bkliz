@@ -56,7 +56,7 @@ Contributions to Bkliz is not limited to GitHub. You can help others by sharing 
 
 ## Coding guidelines
 
-Please see [CODING_CONVENTIONS](https://github.com/powflix/bkliz/blob/master/docs/docs/CODING_CONVENTIONS_STANDARDS.md) in `/docs` repository for good practices of coding styles.
+Please see [CODING_CONVENTIONS_STANDARDS](https://github.com/powflix/bkliz/blob/master/docs/CODING_CONVENTIONS_STANDARDS.md) in `/docs` repository for good practices of coding styles.
 
 ## Good Pull Request
 
