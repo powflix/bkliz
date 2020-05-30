@@ -56,7 +56,7 @@ Contributions to Bkliz is not limited to GitHub. You can help others by sharing 
 
 ## Coding guidelines
 
-Please see [CODING_CONVENTIONS_STANDARDS](https://github.com/powflix/bkliz/blob/master/docs/CODING_CONVENTIONS_STANDARDS.md) in `/docs` repository for good practices of coding styles.
+Please see [CODING_CONVENTIONS_STANDARDS](https://github.com/powflix/bkliz/blob/master/docs/CODING_CONVENTIONS_STANDARDS.md) in `/docs` repository for good practices of Coding Styles.
 
 ## Good Pull Request
 
@@ -64,4 +64,4 @@ Please see [PR_GUIDELINES](https://github.com/powflix/bkliz/blob/master/docs/PR_
 
 ## Reporting Security Issues
 
-Security issues and bugs should be reported privately, via email, to the Powflix at powflix@outlook.com. You should receive a response within 3 days. Please describe the issue properly so that we can fix it easily.
+Security issues and bugs should be reported privately, via email, to the Powflix at powflix@outlook.com. You will receive a response within 3 days. Please describe the issue properly so that we can fix it easily.
