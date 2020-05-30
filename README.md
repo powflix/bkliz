@@ -49,7 +49,7 @@ Powflix has adopted "Contributor Covenant Code of Conduct V2.0", participants ar
 
 ## Contributing
 
-Your help in making BKLIZ better will be highly appreciated. If you're interested, please refer [CONTRIBUTING](https://github.com/powflix/bkliz/blob/master/CONTRIBUTING)
+Your help in making BKLIZ better will be highly appreciated. If you're interested, please refer [CONTRIBUTING](https://github.com/powflix/bkliz/blob/master/CONTRIBUTING.md)
 
 ## License
 
