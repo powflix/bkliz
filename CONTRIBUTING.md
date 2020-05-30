@@ -65,3 +65,5 @@ Please see [PR_GUIDELINES](https://github.com/powflix/bkliz/blob/master/docs/PR_
 ## Reporting Security Issues
 
 Security issues and bugs should be reported privately, via email, to the Powflix at powflix@outlook.com. You will receive a response within 3 days. Please describe the issue properly so that we can fix it easily.
+
+Happy Coding :)
