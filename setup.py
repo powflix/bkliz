@@ -5,16 +5,14 @@
 # Programming Language: Python 3
 # Syntax Standard: PEP 8
 
-'''
-Source: https://github.com/powflix/bkliz | see README for more details
-License: GNU General Public License v3 (GPLv3) | see LICENSE for more details
-Contribution: Wanna contribute to bkliz? | see CONTRIBUTING for more details
+"""Copyright (C) 2020 Powflix Inc., and its affiliates.
 
-Copyright (C) 2020 Powflix Inc., and its affiliates
-'''
+Source: https://github.com/powflix/bkliz | see README for more details.
+License: GNU General Public License v3 (GPLv3) | see LICENSE for more details.
+Contribution: Wanna contribute to bkliz? | see CONTRIBUTING for more details.
+"""
 
 import setuptools
-
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
@@ -24,7 +22,9 @@ setuptools.setup(
     version="1.0.8",
     author="Powflix Inc.",
     author_email="Powflix@outlook.com",
-    description="A Secure and Powerful Open Source Python Library for Encryption/Decryption.",
+    description="""A Secure and Powerful Open Source Python Library for
+                    Encryption/Decryption.""",
+
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/powflix/bkliz",
