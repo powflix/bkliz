@@ -17,19 +17,19 @@ Copyright (C) 2020 Powflix Inc., and its affiliates.
 import setuptools
 
 
-with open("README.rst", "r") as fh:
+with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.9",
+    version="1.0.10",
     author="Powflix Inc.",
     author_email="Powflix@outlook.com",
     description="""A Secure and Powerful Open Source Python Library for
                     Encryption/Decryption.""",
 
     long_description=long_description,
-    long_description_content_type="text/x-rst",
+    long_description_content_type="text/markdown",
     url="https://github.com/powflix/bkliz",
     packages=setuptools.find_packages(),
 
@@ -55,7 +55,6 @@ setuptools.setup(
         "Bug Reports": "https://github.com/powflix/bkliz/issues",
         "Say Thanks!": "https://saythanks.io/to/powflix%40outlook.com",
         "Source": "https://github.com/powflix/bkliz/",
-        "Documentation": """https://github.com/powflix/bkliz
-                            /blob/master/README.rst"""
+        "Documentation": "https://github.com/powflix/bkliz/blob/master/README.rst"
     },
 )
