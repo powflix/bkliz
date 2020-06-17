@@ -3,14 +3,16 @@
 # Programming Language: Python 3
 # Syntax Standard: PEP 8
 
-"""Copyright (C) 2020 Powflix Inc., and its affiliates.
+
+"""A Secure and Powerful Open Source Python Library for Encryption/Decryption.
 
 Source: https://github.com/powflix/bkliz | see README for more details.
 License: GNU General Public License v3 (GPLv3) | see LICENSE for more details.
 Contribution: Wanna contribute to bkliz? | see CONTRIBUTING for more details.
+
+Copyright (C) 2020 Powflix Inc., and its affiliates.
 """
 
-import sys
 
 from .bkliz import decode, encode
 
@@ -41,4 +43,15 @@ try:
     __copyright__ = "Copyright (C) 2020 Powflix Inc., and its affiliates."
 
 except ImportError:
-    print(sys.exc_info()[0])
+    import sys
+
+    sys.stderr.write("""
+        ==================================
+        Bkliz Metadata ImportError Occured
+        ==================================
+
+        Bkliz's metadata is not imported, you can find it in your standard
+        installation of python packages for your system account.
+
+        //You can still use the standard methods of bkliz library.
+    """)
