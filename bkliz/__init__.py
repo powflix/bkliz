@@ -1,9 +1,3 @@
-# Encoding: UTF-8
-# Line Endings: LF(Unix)
-# Programming Language: Python 3
-# Syntax Standard: PEP 8
-
-
 """A Secure and Powerful Open Source Python Library for Encryption/Decryption.
 
 Source: https://github.com/powflix/bkliz | see README for more details.
@@ -30,17 +24,10 @@ try:
     __summary__ = metadata['summary']
     __author__ = metadata['author']
     __email__ = metadata['author-email']
-
-    __source__ = """https://github.com/powflix/bkliz |
-                    see README for more details."""
-
-    __license__ = """GNU General Public License v3 (GPLv3) |
-                    see LICENSE for more details."""
-
-    __contribution__ = """Wanna contribute to bkliz? |
-                    see CONTRIBUTING for more details."""
-
-    __copyright__ = "Copyright (C) 2020 Powflix Inc., and its affiliates."
+    __source__ = 'https://github.com/powflix/bkliz | see README for more details.'
+    __license__ = 'GNU General Public License v3 (GPLv3) | see LICENSE for more details."'
+    __contribution__ = 'Wanna contribute to bkliz? | see CONTRIBUTING for more details.'
+    __copyright__ = 'Copyright (C) 2020 Powflix Inc., and its affiliates.'
 
 except ImportError:
     import sys

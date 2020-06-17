@@ -1,9 +1,3 @@
-# Encoding: UTF-8
-# Line Endings: LF(Unix)
-# Programming Language: Python 3
-# Syntax Standard: PEP 8
-
-
 """A Secure and Powerful Open Source Python Library for Encryption/Decryption.
 
 Source: https://github.com/powflix/bkliz | see README for more details.
@@ -23,7 +17,7 @@ def encode(self):
     storedmsg = ''
 
     for character in self:
-        key = random.randint(33, 126)       # UTF - 8 Character Range
+        key = random.randint(33, 126)       # UTF - 8 Character Range Logic
 
         storedmsg += chr(ord(character) + key)
         storedkey.append(key)
