@@ -1,9 +1,3 @@
-# Encoding: UTF-8
-# Line Endings: LF(Unix)
-# Programming Language: Python 3
-# Syntax Standard: PEP 8
-
-
 """A Secure and Powerful Open Source Python Library for Encryption/Decryption.
 
 Source: https://github.com/powflix/bkliz | see README for more details.
@@ -22,12 +16,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.10",
+    version="1.0.11",
     author="Powflix Inc.",
     author_email="Powflix@outlook.com",
-    description="""A Secure and Powerful Open Source Python Library for
-                    Encryption/Decryption.""",
-
+    description="""A Secure and Powerful Open Source Python Library for Encryption/Decryption.""",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/powflix/bkliz",
