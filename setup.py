@@ -22,7 +22,7 @@ with open("README.rst", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.9",
+    version="1.0.10",
     author="Powflix Inc.",
     author_email="Powflix@outlook.com",
     description="""A Secure and Powerful Open Source Python Library for
