@@ -55,7 +55,6 @@ setuptools.setup(
         "Bug Reports": "https://github.com/powflix/bkliz/issues",
         "Say Thanks!": "https://saythanks.io/to/powflix%40outlook.com",
         "Source": "https://github.com/powflix/bkliz/",
-        "Documentation": """https://github.com/powflix/bkliz
-                            /blob/master/README.rst"""
+        "Documentation": "https://github.com/powflix/bkliz/blob/master/README.rst"
     },
 )
