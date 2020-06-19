@@ -16,7 +16,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bkliz",
-    version="1.0.11",
+    version="1.0.12",
     author="Powflix Inc.",
     author_email="Powflix@outlook.com",
     description="""A Secure and Powerful Open Source Python Library for Encryption/Decryption.""",
@@ -47,6 +47,6 @@ setuptools.setup(
         "Bug Reports": "https://github.com/powflix/bkliz/issues",
         "Say Thanks!": "https://saythanks.io/to/powflix%40outlook.com",
         "Source": "https://github.com/powflix/bkliz/",
-        "Documentation": "https://github.com/powflix/bkliz/blob/master/README.rst"
+        "Documentation": "https://github.com/powflix/bkliz/blob/master/README.md"
     },
 )
