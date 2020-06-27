@@ -1,19 +1,18 @@
 # Configuration for probot-stale - https://github.com/probot/stale
 # Number of days of inactivity before an issue becomes stale
-daysUntilStale: 90
+daysUntilStale: 7
 # Number of days of inactivity before a stale issue is closed
 daysUntilClose: 7
 # Issues with these labels will never be considered stale
 exemptLabels:
-  - "Partner"
-  - "Bkliz Core Team"
-  - "Resolution: Backlog"
-  - "Type: Bug"
-  - "Type: Discussion"
-  - "Type: Needs Investigation"
-  - "Type: Regression"
+  - Bkliz Core Team
+  - bug
+  - enhancement
+  - good first issue
+  - help wanted
+  - question
 # Label to use when marking an issue as stale
-staleLabel: "Resolution: Stale"
+staleLabel: stale
 issues:
   # Comment to post when marking an issue as stale.
   markComment: >
