@@ -21,7 +21,7 @@ pycparser==2.20
 pyflakes==2.2.0
 Pygments==2.7.1
 pyparsing==2.4.7
-pytest==6.1.1
+pytest==6.1.2
 readme-renderer==28.0
 requests==2.24.0
 requests-toolbelt==0.9.1
