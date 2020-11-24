@@ -25,7 +25,7 @@ pytest==6.1.2
 readme-renderer==28.0
 requests==2.25.0
 requests-toolbelt==0.9.1
-SecretStorage==3.2.0
+SecretStorage==3.3.0
 six==1.15.0
 toml==0.10.2
 tqdm==4.52.0
