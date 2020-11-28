@@ -2,7 +2,7 @@ attrs==20.3.0
 autopep8==1.5.3
 bleach==3.2.1
 certifi==2020.11.8
-cffi==1.14.3
+cffi==1.14.4
 chardet==3.0.4
 cryptography==3.2.1
 docutils==0.16
@@ -12,7 +12,7 @@ jeepney==0.6.0
 keyring==21.5.0
 mccabe==0.6.1
 more-itertools==8.6.0
-packaging==20.4
+packaging==20.5
 pkginfo==1.6.1
 pluggy==0.13.1
 py==1.9.0
@@ -25,10 +25,10 @@ pytest==6.1.2
 readme-renderer==28.0
 requests==2.25.0
 requests-toolbelt==0.9.1
-SecretStorage==3.2.0
+SecretStorage==3.3.0
 six==1.15.0
 toml==0.10.2
-tqdm==4.52.0
+tqdm==4.54.0
 twine==3.2.0
 urllib3==1.26.2
 wcwidth==0.2.5
